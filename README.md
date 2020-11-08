@@ -112,8 +112,10 @@ Pada setiap bulan nya pengusaha mengalami penurunan dan kenaikan keuntungan / la
 
 <br>
 
++=+=+=+=+=+ ***Thank You***  +=+=+=+=+=+=+=
 ========== ***Miftahu Rizkiyah*** ==========
 ++++++++++++++ ***312010014*** ++++++++++++
+
 
 
 
