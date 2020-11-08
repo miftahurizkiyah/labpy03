@@ -37,7 +37,32 @@ fungsi random() akan menghasilkan angka yang memiliki tipe data float dan berada
 uniform sendiri berfungsi untuk menampilkan bilangan float random dengan batas awal bilangan dan batas akhir.
 
 
+* **Latihan 2**
 
+Pada latihan ke-2 ini Dosen memberikan tugas untuk menampilkan bilangan terbesar dari (n). <br>
+![Tugas_latihan2](pict/Tugas_latihan2.PNG)
+
+
+Pada tugas ini saya menggunakan source code :
+``` python
+print("Praktikum 3")
+
+a=0
+while True:
+    bilangan = int(input("Masukan Bilangan : " ))
+    if (a < bilangan):
+        a=bilangan
+    if (bilangan == 0):
+        break
+
+print("bilangan terbesar adalah : ",a)
+print()
+```
+
+* Note : <br>
+- Perulangan **(while)** disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai **True**
+- Kondisi **if** digunakan untuk mengeksekusi kode jika kondisi bernilai benar (True)
+- Pernyataan **Break** digunakan untuk menghentikan process perulangan pada kondisi tertentu. 
 
 
 
